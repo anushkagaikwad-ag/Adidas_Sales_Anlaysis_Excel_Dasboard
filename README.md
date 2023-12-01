@@ -11,6 +11,9 @@ Adidas faced challenges in obtaining a comprehensive and visually engaging analy
 Solution Provided:
 Developed an Excel dashboard incorporating a diverse range of visualizations to provide a comprehensive view of Adidas sales data. Implemented dynamic charts, including clustered columns, line charts, donut charts, bar charts, pie charts, and a geographical map. Slicers for month and region enhance user control and customization.
 
+Tools used:
+Microsoft Excel.
+   
 Result/Benefits on the Outcome of the Implementation:
 1. **Enhanced Visibility:** The dashboard offers a visually engaging and detailed representation of sales data, fostering a deeper understanding of key performance metrics.
 2. **Trend Identification:** Stakeholders can easily identify trends, such as the most beneficial year, month, and days, aiding in strategic planning.
